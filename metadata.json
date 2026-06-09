@@ -1,0 +1,6 @@
+{
+  "name": "Al-Athar",
+  "description": "Plateforme algérienne de santé mentale offrant un accompagnement psychologique anonyme, sécurisé et bienveillant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
